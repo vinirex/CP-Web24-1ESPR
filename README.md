@@ -8,3 +8,10 @@ depois digitar
 
 npm run dev
 
+#Projeto para Web Development
+Grupo:
+Rm553240: Vinicius Silva
+
+Rm553837: Diogo Julio
+
+RM552965: Victor Didoff
