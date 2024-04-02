@@ -13,7 +13,7 @@ function Nav() {
             </Link>{' '}
             {''}
             <Link to="/sobre" className="tlink">
-              Sobre
+              About
             </Link>
             <Link to="/produtos" className="tlink">
               Produtos
