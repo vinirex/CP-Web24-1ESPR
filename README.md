@@ -1,15 +1,14 @@
+# Projeto para Web Development 1ESPR
 # projeto criando usando react +vite
-
-# O projeto vai sem a pasta node_modules portanto é preciso 
-# abrir o projeto no vscode e no terminal digitar 
-npm install
+#O projeto vai sem a pasta node_modules portanto é preciso: 
+abrir o projeto no vscode e no terminal digitar 
+- npm install
 
 depois digitar
 
-npm run dev
+- npm run dev
 
-# Projeto para Web Development
-Grupo:
+#Grupo:
 
 Rm553240: Vinicius Silva
 
