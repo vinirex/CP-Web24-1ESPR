@@ -10,8 +10,8 @@ depois digitar
 
 # Grupo:
 
-Rm553240: Vinicius Silva
+Diogo Julio : Rm553837
 
-Rm553837: Diogo Julio
+Victor Didoff : Rm552965
 
-RM552965: Victor Didoff
+Vinicius Silva : Rm553240
